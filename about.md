@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A group of Splatoon hackers.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Well, we hack the game Splatoon, developed for the Nintendo Wii U. We use various hacks and develop verious hacks.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mcminers9@gmail.com](mailto:mcminers9@gmail.com)
