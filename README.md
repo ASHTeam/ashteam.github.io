@@ -1,4 +1,6 @@
 # Actual Splatoon Hacking Team Site
-This site is temporary until we can find a better one.
+The source code for the [Actual Splatoon Hacking](http://ashteam.ml) site.
 
-## To see it live, [click here](https://ashteam.github.io)
+## Wanna join ASH Team? [Click here](http://ashteam.ml/apply-to-join).
+
+## To see the site live, [click here](http://ashteam.ml)
