@@ -4,7 +4,7 @@ title: Apply To Join
 permalink: /apply-to-join/
 ---
 
-## Wanna join ASH Team? Got some programming knowledge? Know at least the basics of Wii U hacking/modding? Then apply!
+## Wanna join ASH Team? Can you contribute to the team? Know at least the basics of Wii U hacking/modding? Then apply!
 
 ### [Click here] to apply to join ASH Team.
 
