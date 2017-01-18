@@ -9,4 +9,4 @@ permalink: /apply-to-join/
 ### [Click here] to apply to join ASH Team.
 
 <!-- just some referencing to links -->
-[Click here]: 
+[Click here]: https://docs.google.com/forms/d/e/1FAIpQLScMNGxS5R2cgsL7g5nGwQT-h8Pk2n7ZYPqvgb6kD4nhRxAang/viewform
